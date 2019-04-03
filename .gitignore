@@ -67,3 +67,6 @@ modules.xml
 
 # Sonarlint plugin
 .idea/sonarlint
+
+### Project ###
+.env
